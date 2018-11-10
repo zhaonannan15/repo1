@@ -1,1 +1,5 @@
-1433223
+public class hello{
+	public static void main (String[]args){
+		Syetem.out.println("hello");
+	}
+}
